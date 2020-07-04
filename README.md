@@ -1,5 +1,5 @@
 # jupyter_notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gavieira/jupyter_notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gavieira/jupyter_notebooks/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gavieira/jupyter_notebooks)
 
 Code and notes on various topics.
 
